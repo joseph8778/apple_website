@@ -11,7 +11,7 @@ import {
   
   export const navLists = ["Store", "Mac", "iPhone", "Support"];
   
-  export const hightlightsSlides = [
+  export const highlightsSlides = [
     {
       id: 1,
       textLists: [
@@ -72,6 +72,8 @@ import {
       img: blackImg,
     },
   ];
+
+
   
   export const sizes = [
     { label: '6.1"', value: "small" },
